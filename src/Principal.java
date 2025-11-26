@@ -86,6 +86,6 @@ public class Principal {
                 }
             }
         }
-        System.out.println("GRACIAS POR USAR 'CONVERT3000'");
+        System.out.println("GRACIAS POR USAR 'CONVERT3000, HASTA LUEGO'");
     }
 }
