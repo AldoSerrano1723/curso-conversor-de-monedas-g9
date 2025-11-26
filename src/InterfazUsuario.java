@@ -18,8 +18,7 @@ public class InterfazUsuario {
                 
                 7: SALIR
                 
-                SELECCIONE UN OPCION DEL 1 AL 7.
-                """;
+                SELECCIONE UN OPCION DEL 1 AL 7.""";
 
         System.out.println("PROYECTO: " + nombreProyecto);
         System.out.println("AUTOR: " + autorProyecto);
